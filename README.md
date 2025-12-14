@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <!-- <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=aminkashiri&show_icons=True"/>
+        </td> -->
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminkashiri&layout=compact&langs_count=10"/>
+        </td>
+    </tr>
+</table>
 <!--
 **aminkashiri/aminkashiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
